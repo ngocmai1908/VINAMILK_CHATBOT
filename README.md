@@ -26,3 +26,5 @@ Lấy thông tin từ file **VINAMILK.pdf**, chatbot có thể giải thích:
 Mô tả thành phần và lợi ích của các dòng sữa: Sữa tươi, Dielac, Sure Prevent, Probi...                                                                                      
 
 ### *veny/giaodien.py* là File Streamlit chính (UI & logic chatbot)
+
+### Download model here: Google Drive link
