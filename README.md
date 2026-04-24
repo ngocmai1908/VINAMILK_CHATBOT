@@ -27,4 +27,4 @@ Mô tả thành phần và lợi ích của các dòng sữa: Sữa tươi, Diel
 
 ### *veny/giaodien.py* là File Streamlit chính (UI & logic chatbot)
 
-### Download model here: Google Drive link
+### Link download model: https://drive.google.com/drive/folders/1F_XXKILnZoma-AzTtgNt9b302IgQ4bYC?usp=drive_link
